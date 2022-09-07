@@ -47,19 +47,35 @@
 
 
 # Group 3
+Based on "Reproducibility Criteria", EMNLP 2020: https://2020.emnlp.org/call-for-papers#new-reproducibility-criteria
 
+For all reported experimental results:
 
-## smaller heading
-I just love **bold text**.
-Italicized text is the *cat's meow*.
-This text is ***really important***.
+- [ ] A clear description of the mathematical setting, algorithm, and/or model.
+- [ ] A link to a downloadable source code, with specification of all dependencies, including external libraries
+- [ ] Description of computing infrastructure used
+- [ ] Average runtime for each approach
+- [ ] Number of parameters in each model
+- [ ] Corresponding validation performance for each reported test result
+- [ ] Explanation of evaluation metrics used, with links to code
+- [ ] * Code reviews
+- [ ] * Pre-registration encouraged
 
-- [ ] this is an unchecked box
-- [x] this is a checked box
+For all experiments with hyperparameter search:
 
-1. First item
-2. Second item
-3. Third item
-    1. Indented item
-    2. Indented item
-4. Fourth item 
+- [ ] Bounds for each hyperparameter
+- [ ] Hyperparameter configurations for best-performing models
+- [ ] Number of hyperparameter search trials
+- [ ] The method of choosing hyperparameter values (e.g., uniform sampling, manual tuning, etc.) and the criterion used to select among them (e.g., accuracy)
+- [ ] Expected validation performance, as introduced in Section 3.1 in Dodge et al, 2019, or another measure of the mean and variance as a function of the number of hyperparameter trials.
+
+For all datasets used:
+
+- [ ] Relevant statistics such as number of examples
+- [ ] Details of train/validation/test splits
+- [ ] Explanation of any data that were excluded, and all pre-processing steps
+- [ ] A link to a downloadable version of the data * (if not possible, provide a reason)
+- [ ] For new data collected, a complete description of the data collection process, such as instructions to annotators and methods for quality control.
+
+*new additions
+
