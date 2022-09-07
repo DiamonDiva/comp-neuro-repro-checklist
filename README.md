@@ -9,4 +9,18 @@
 
 # Group 3
 
-[] test
+
+## smaller heading
+I just love **bold text**.
+Italicized text is the *cat's meow*.
+This text is ***really important***.
+
+- [ ] this is an unchecked box
+- [x] this is a checked box
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item 
