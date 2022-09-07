@@ -28,6 +28,22 @@
 - [ ]  Responsibility (hierarchy) of people in the experiment: who was responsible for what parts of the experiment/code/data collection/etc.
 
 # Group 2
+(Seibold et al.)
+
+- [ ]  do pre-registration
+- [ ]  contact ethics committee
+- [ ]  avoid biases in data. Acknowledge biases if unavoidable
+- [ ]  upload code and data appropriately (see group 1 checklist)
+- [ ]  upload documentation appropriately (see group 1 checklist)
+- [ ]  follow code and data security protocol
+- [ ]  internal peer review
+- [ ]  use appropriate licensing
+- [ ]  check-in with open science support team
+- [ ]  contact internal legal department
+- [ ]  check for reference-completeness
+- [ ]  check that all contributors are acknowledged
+- [ ]  appease the (high impact) journal
+- [ ]  appease the reviewers
 
 
 # Group 3
