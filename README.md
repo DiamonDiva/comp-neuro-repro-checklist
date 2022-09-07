@@ -43,6 +43,7 @@ For all reported experimental results:
 - [ ] Corresponding validation performance for each reported test result
 - [ ] Explanation of evaluation metrics used, with links to code
 - [ ] * Code reviews
+- [ ] * Pre-registration encouraged
 
 For all experiments with hyperparameter search:
 
